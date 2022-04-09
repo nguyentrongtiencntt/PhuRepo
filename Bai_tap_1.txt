@@ -1,0 +1,4 @@
+a. Tạo nick github->gitlab, bit bucket, source tree
+b. Cài đặt git-scm
+
+
